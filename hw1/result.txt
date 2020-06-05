@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 132.72.105.209, TCP port 5000
+TCP window size: 1.45 MByte (default)
+------------------------------------------------------------
+[  3] local 132.72.105.210 port 39356 connected with 132.72.105.209 port 5000
+[ ID] Interval       Transfer     Bandwidth
+[  3]  0.0- 1.0 sec  1.57 GBytes  13.5 Gbits/sec
+[  3]  1.0- 2.0 sec  1.09 GBytes  9.33 Gbits/sec
+[  3]  2.0- 3.0 sec  1.12 GBytes  9.66 Gbits/sec
+[  3]  3.0- 4.0 sec  1.10 GBytes  9.42 Gbits/sec
+[  3]  4.0- 5.0 sec  1.07 GBytes  9.22 Gbits/sec
+[  3]  0.0- 5.0 sec  5.95 GBytes  10.2 Gbits/sec
